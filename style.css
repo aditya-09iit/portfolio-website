@@ -10,7 +10,7 @@ body{
     color: #a0a0a0;
     line-height: 1.6;
     padding-top: 40px;
-    
+
 }
 
 .main-container{
@@ -354,9 +354,12 @@ nav a{
         flex-wrap: wrap;
     }
 
-    .sidebar{
+    /* .sidebar{
         display: flex;
         justify-content: center;
         gap: 40px;
+    } */
+     .sidebar{
+    display:block;
     }
 }
